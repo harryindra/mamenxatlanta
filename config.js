@@ -1,6 +1,6 @@
 module.exports = {
 	/* The token of your Discord Bot */
-	token: "XXXXXXXXXXX",
+	token: "NzE5NzI0OTMxMzkwMTExNzg1.Xt7mEw.li_dYPjRWDuyoltdlWSOzH_JHB8",
 	/* For the support server */
 	support: {
 		id: "XXXXXXXXXXX", // The ID of the support server
@@ -9,8 +9,8 @@ module.exports = {
 	/* Dashboard configuration */
 	dashboard: {
 		enabled: false, // whether the dashboard is enabled or not
-		secret: "XXXXXXXXXXX", // Your discord client secret
-		baseURL: "https://dashboard.atlanta-bot.fr", // The base URl of the dashboard
+		secret: "86lhQ8in1-5BeqLrUBagByL7YGK6UfYg", // Your discord client secret
+		baseURL: "https://atlantaxmamen.herokuapp.com/", // The base URl of the dashboard
 		logs: "XXXXXXXXXXX", // The channel ID of logs
 		port: 8080, // Dashboard port
 		expressSessionPassword: "XXXXXXXXXXX", // Express session password (it can be what you want)
